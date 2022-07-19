@@ -1,5 +1,7 @@
 # DOTS
 
+Screenshots :[r/Gentoo](https://www.reddit.com/r/Gentoo/comments/w22x3u/btw_i_use_gentoo_finally_finished_my_gentoo/?utm_source=share&utm_medium=web2x&context=3)
+
 My `.config` files for 
 
 - [Awesome WM](#awesome-wm)
